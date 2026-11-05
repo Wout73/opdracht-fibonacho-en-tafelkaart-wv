@@ -1,0 +1,15 @@
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.AssemblyInfoInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.AssemblyInfo.cs
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.csproj.CoreCompileInputs.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\bin\Debug\net10.0\opdracht fibonacho.exe
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\bin\Debug\net10.0\opdracht fibonacho.deps.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\bin\Debug\net10.0\opdracht fibonacho.runtimeconfig.json
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\bin\Debug\net10.0\opdracht fibonacho.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\bin\Debug\net10.0\opdracht fibonacho.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\refint\opdracht fibonacho.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.pdb
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht fibonacho.genruntimeconfig.cache
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\ref\opdracht fibonacho.dll
+C:\Users\vulli\Documents\wout\backend leerjar 2 p1\opdracht fibonacho en tafelkaart\opdracht fibonacho\opdracht fibonacho\obj\Debug\net10.0\opdracht.58FA7DCF.Up2Date
